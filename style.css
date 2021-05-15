@@ -5,7 +5,7 @@
 }
 
 :root {
-    --sidebar-width: 22rem;
+    --sidebar-width: 25rem;
 }
 
 .folder::before {
